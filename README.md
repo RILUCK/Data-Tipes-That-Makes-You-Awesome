@@ -1,7 +1,7 @@
 # Data-Tipes-That-Makes-You-Awesome
 Data Science Tips to Improve your Knowledge
 
-![data_types](https://user-images.githubusercontent.com/12669248/47540641-cb0bc980-d8f3-11e8-822c-1ad74d3ba838.png)
+![data_types](https://user-images.githubusercontent.com/12669248/47542377-bd0d7700-d8fa-11e8-84d3-f1d2fd9e9c07.jpg)
 
 #DataScience #Tips 
 
